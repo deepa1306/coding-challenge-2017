@@ -154,7 +154,7 @@ the interface and the workflow using one of the many tutorials available online.
     Message: <if you want to send any>
     ~~~ 
 
-    Put the subject of the email as "Coding Challenge 2017"
+    Put the subject as the email as "Coding Challenge 2017"
 
 Please follow these steps precisely, and verify that your code is uploaded
 correctly by checking it on the GitHub web interface before submitting.
